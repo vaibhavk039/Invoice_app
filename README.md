@@ -22,7 +22,7 @@ Here we are getting data from a UI for developing which i have used HTML & JAVAS
 
 6: QUANTITY / No. Of WORKING HOURS 
 
-7: SERVICE TAX:-
+7: SERVICE TAX
 
 and after filling all the fields and submitting it. It will directly store all the data in the database and create a PDF Invoice file and stores it in the avaliable INVOICE 
 folder and also sends a Email to the customer with the PDF Invoice file attached to it.
